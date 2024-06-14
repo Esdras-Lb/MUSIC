@@ -17,7 +17,7 @@ body{
 
 header{
     height: 400px;
-    background-image: url(E:/esdras/imagenes/Portada.jpg);
+    background-image: url(imagenes/Portada.jpg);
     background-position: center;
     background-size: cover;
 }
